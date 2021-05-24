@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script type="text/javascript" src="//js.users.51.la/21131787.js"></script>

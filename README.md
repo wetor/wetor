@@ -1,10 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=wetor&color=green)
 
-### 2022届求职~
-求职意向：Golang后端、Java后端、游戏客户端
-暑假实习或者秋招都行，救救孩子吧
-邮箱：wetorx@qq.com
-<!--
 **wetor/wetor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
